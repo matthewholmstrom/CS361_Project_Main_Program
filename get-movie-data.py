@@ -1,3 +1,4 @@
+#The code in this file was written for my main program to use by my teammate Allison Majors"
 import zmq
 import requests
 import os
